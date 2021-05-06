@@ -7,6 +7,8 @@ public class Test4 {
 		System.out.println("Hello Shridhar");
 		System.out.println("Hi Sp");
 		System.out.println("First Try");
+		System.out.println("Second line added");
+		System.out.println("Modified lines");
 	}
 
 }
